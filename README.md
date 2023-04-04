@@ -1,2 +1,2 @@
-# my first apps
+# my first app
 # jsonviewer
